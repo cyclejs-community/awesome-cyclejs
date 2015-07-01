@@ -35,7 +35,9 @@ http://oleg.fi/graafi
 
 ## Libraries
 
-### Core
+### Drivers
+
+* [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 
 * [cyclejs/cycle-web](https://github.com/cyclejs/cycle-web) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 
@@ -44,6 +46,7 @@ http://oleg.fi/graafi
 * [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
 
 * [erykpiast/cyclejs-stream](https://github.com/erykpiast/cyclejs-stream) - Observable (events stream) to which you can inject another streams.
+
 
 ### Testing
 
