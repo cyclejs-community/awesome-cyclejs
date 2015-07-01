@@ -16,7 +16,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Videos
 
-* [JSConfBP 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4) - What if the user was a function? by [Andre Staltz](http://twitter.com/andrestaltz)
+* [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) - Presentation at JSConf BP2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 
 ### Slides
 
