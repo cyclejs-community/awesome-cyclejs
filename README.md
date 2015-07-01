@@ -20,14 +20,24 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Slides
 
-
+* [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/eryknapierala/cycle) - by Eryk Napierała
 
 ### Example Applications
 
+* [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://www.rxmarbles.com
+
 * [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js.
+
+* [graafi](https://github.com/phadej/graafi) - cycle.js experiment
+http://oleg.fi/graafi
+
 
 
 ## Libraries
+
+### Core
+
+* [cyclejs/cycle-web](https://github.com/cyclejs/cycle-web) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 
 ### Utilities
 
