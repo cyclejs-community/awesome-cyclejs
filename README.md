@@ -2,17 +2,52 @@
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
-
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-
-- [Videos](#videos)
+- [Learn](#learn)
+- [Libraries](#libraries)
 
 ---
-### Resources
+## Learn
 
-#### Cycle.js Community
+### Documentation
 
-#### Tutorials
+* [cycle.js.org](http://cycle.js.org/) - Cycle.js official tutorial and documentation.
 
-##### Cycle.js Tutorials
+### Tutorials
+
+### Videos
+
+* [JSConfBP 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4) - What if the user was a function? by [Andre Staltz](http://twitter.com/andrestaltz)
+
+### Slides
+
+
+
+### Example Applications
+
+* [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js.
+
+
+## Libraries
+
+### Utilities
+
+* [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
+
+* [erykpiast/cyclejs-stream](https://github.com/erykpiast/cyclejs-stream) - Observable (events stream) to which you can inject another streams.
+
+### Testing
+
+* [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
+
+### Components
+
+* [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
+
+## Community
+
+* [Gitter chat](https://gitter.im/staltz/cycle) - Ask 'how do I ...?'
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
