@@ -30,7 +30,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) - Tetris game implemented in CycleJS
 
-* [phadej/graafi](https://github.com/phadej/graafi) - cycle.js experiment
+* [phadej/graafi](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo
 http://oleg.fi/graafi
 
 * [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://www.rxmarbles.com
