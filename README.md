@@ -28,6 +28,8 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) - Examples are grouped into lessons and placed in narrative order in tutorial-like way using JSX.
 
+* [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) - Tetris game implemented in CycleJS
+
 * [phadej/graafi](https://github.com/phadej/graafi) - cycle.js experiment
 http://oleg.fi/graafi
 
