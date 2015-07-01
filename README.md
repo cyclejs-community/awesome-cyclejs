@@ -24,13 +24,14 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Example Applications
 
-* [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://www.rxmarbles.com
-
 * [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js.
 
-* [graafi](https://github.com/phadej/graafi) - cycle.js experiment
+* [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) - Examples are grouped into lessons and placed in narrative order in tutorial-like way using JSX.
+
+* [phadej/graafi](https://github.com/phadej/graafi) - cycle.js experiment
 http://oleg.fi/graafi
 
+* [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://www.rxmarbles.com
 
 
 ## Libraries
