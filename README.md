@@ -49,6 +49,8 @@ http://oleg.fi/graafi
 * [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
 
 * [erykpiast/cyclejs-stream](https://github.com/erykpiast/cyclejs-stream) - Observable (events stream) to which you can inject another streams.
+ 
+* [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 
 
 ### Testing
