@@ -25,7 +25,11 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Example Applications
 
+* [cgeorg/todomvp](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js
+
 * [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js.
+
+* [grozen/trends-cycle](https://github.com/grozen/trends-cycle) - Slack trend searching written in Cycle.js
 
 * [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) - Examples are grouped into lessons and placed in narrative order in tutorial-like way using JSX.
 
@@ -49,6 +53,8 @@ http://oleg.fi/graafi
 
 ### Utilities
 
+* [cgeorg/sinject](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies
+
 * [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
 
 * [erykpiast/cyclejs-stream](https://github.com/erykpiast/cyclejs-stream) - Observable (events stream) to which you can inject another streams.
@@ -57,6 +63,7 @@ http://oleg.fi/graafi
  
 * [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 
+* [pH200/cycle-react](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API
 
 ### Testing
 
