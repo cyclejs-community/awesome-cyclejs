@@ -64,6 +64,8 @@ http://oleg.fi/graafi
 * [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 
 * [pH200/cycle-react](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API
+ 
+* [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload.
 
 ### Testing
 
