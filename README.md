@@ -25,6 +25,8 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Example Applications
 
+* [cyclejs/cycle-examples](https://github.com/cyclejs/cycle-examples) - Official collection of small Cycle.js examples 
+
 * [cgeorg/todomvp](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js
 
 * [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js.
