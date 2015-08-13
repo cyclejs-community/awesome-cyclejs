@@ -47,6 +47,8 @@ http://oleg.fi/graafi
 
 ### Drivers
 
+* [tylors/cycle-director](https://github.com/tylors/cycle-director) - Router driver using Director
+
 * [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) - A Cycle.js Driver for making HTTP requests, based on superagent.
 
 * [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
