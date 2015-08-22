@@ -33,9 +33,9 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [grozen/trends-cycle](https://github.com/grozen/trends-cycle) - Slack trend searching written in Cycle.js
 
-* [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) - Examples are grouped into lessons and placed in narrative order in tutorial-like way using JSX.
+* [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6.
 
-* [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) - Tetris game implemented in CycleJS
+* [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) - Tetris game implemented in CycleJS, ES6
 
 * [phadej/graafi](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo
 http://oleg.fi/graafi
