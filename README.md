@@ -51,11 +51,14 @@ http://oleg.fi/graafi
 
 * [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) - A Cycle.js Driver for making HTTP requests, based on superagent.
 
+* [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) - A Cycle.js Driver for showing and responding to HTML5 Notifications.
+
 * [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) - A router driver using Router5
 
 * [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 
 * [cyclejs/cycle-web](https://github.com/cyclejs/cycle-web) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
+
 
 ### Utilities
 
