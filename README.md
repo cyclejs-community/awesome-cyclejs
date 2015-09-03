@@ -80,6 +80,10 @@ http://oleg.fi/graafi
 
 * [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
 
+### Debugging
+
+* [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time. Try it online [here](http://cycle.js.org/cycle-time-travel).
+
 ### Components
 
 * [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
