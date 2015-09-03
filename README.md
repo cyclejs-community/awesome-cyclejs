@@ -76,6 +76,8 @@ http://oleg.fi/graafi
  
 * [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload.
 
+* [madcapjake/earlhyperscript](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js.
+
 ### Testing
 
 * [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
