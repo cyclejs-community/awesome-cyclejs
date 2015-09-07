@@ -78,6 +78,8 @@ http://oleg.fi/graafi
 
 * [madcapjake/earlhyperscript](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js.
 
+* [Frikki/generator-cyclejs](https://github.com/Frikki/generator-cyclejs) - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
+
 ### Testing
 
 * [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
