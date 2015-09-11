@@ -62,6 +62,8 @@ http://oleg.fi/graafi
 
 ### Utilities
 
+* [staltz/chai-virtual-dom](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
+
 * [cgeorg/sinject](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies
 
 * [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
