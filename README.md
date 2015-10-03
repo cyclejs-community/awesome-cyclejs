@@ -21,7 +21,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Slides
 
-* [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/eryknapierala/cycle) - by Eryk Napierała
+* [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/erykpiast/cycle) - by Eryk Napierała
 
 ### Example Applications
 
