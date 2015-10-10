@@ -57,7 +57,7 @@ http://oleg.fi/graafi
 
 * [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 
-* [cyclejs/cycle-web](https://github.com/cyclejs/cycle-web) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
+* [cyclejs/cycle-dom](https://github.com/cyclejs/cycle-dom) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 
 * [secobarbital/cycle-fetch-driver](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
 
