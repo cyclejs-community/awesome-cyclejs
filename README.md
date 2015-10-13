@@ -61,6 +61,8 @@ http://oleg.fi/graafi
 
 * [secobarbital/cycle-fetch-driver](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
 
+* [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher).
+
 
 ### Utilities
 
