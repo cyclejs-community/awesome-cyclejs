@@ -63,6 +63,8 @@ http://oleg.fi/graafi
 
 * [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher).
 
+* [takashi/cycle-markdown-driver](https://github.com/takashi/cycle-markdown-driver) - A Cycle.js Driver for parsing markdown from text
+
 
 ### Utilities
 
