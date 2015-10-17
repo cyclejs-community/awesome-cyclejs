@@ -42,6 +42,7 @@ http://oleg.fi/graafi
 
 * [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://www.rxmarbles.com
 
+* [MarcCloud/magic-cart](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store.
 
 ## Libraries
 
