@@ -44,6 +44,8 @@ http://oleg.fi/graafi
 
 * [MarcCloud/magic-cart](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store.
 
+* [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD.
+
 ## Libraries
 
 ### Drivers
