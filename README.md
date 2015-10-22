@@ -46,6 +46,8 @@ http://oleg.fi/graafi
 
 * [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD.
 
+* [collardeau/kairos](https://github.com/collardeau/kairos) - Source code for [Kairos](http://my-kairos.herokuapp.com/), a weather app built in Cycle.js.
+
 ## Libraries
 
 ### Drivers
