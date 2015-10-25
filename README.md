@@ -48,6 +48,8 @@ http://oleg.fi/graafi
 
 * [collardeau/kairos](https://github.com/collardeau/kairos) - Source code for [Kairos](http://my-kairos.herokuapp.com/), a weather app built in Cycle.js.
 
+* [adicirstei/cycle-bp](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps
+
 ## Libraries
 
 ### Drivers
