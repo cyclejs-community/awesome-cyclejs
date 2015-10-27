@@ -50,6 +50,8 @@ http://oleg.fi/graafi
 
 * [adicirstei/cycle-bp](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps
 
+* [Mercateo/component-check](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components
+
 ## Libraries
 
 ### Drivers
