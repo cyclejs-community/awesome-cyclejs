@@ -88,12 +88,16 @@ http://oleg.fi/graafi
 * [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 
 * [pH200/cycle-react](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API
- 
-* [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload.
 
 * [madcapjake/earlhyperscript](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js.
 
+### Boilerplates
+
+* [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload.
+
 * [Frikki/generator-cyclejs](https://github.com/Frikki/generator-cyclejs) - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
+
+* [edge/cyc](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds.
 
 ### Testing
 
