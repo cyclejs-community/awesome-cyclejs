@@ -52,6 +52,8 @@ http://oleg.fi/graafi
 
 * [Mercateo/component-check](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components
 
+* [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron.
+
 ## Libraries
 
 ### Drivers
