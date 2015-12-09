@@ -48,8 +48,6 @@ http://oleg.fi/graafi
 
 * [collardeau/kairos](https://github.com/collardeau/kairos) - Source code for [Kairos](http://my-kairos.herokuapp.com/), a weather app built in Cycle.js.
 
-* [adicirstei/cycle-bp](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps
-
 * [Mercateo/component-check](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components
 
 * [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron.
@@ -98,6 +96,8 @@ http://oleg.fi/graafi
 * [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload.
 
 * [Frikki/generator-cyclejs](https://github.com/Frikki/generator-cyclejs) - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
+
+* [adicirstei/cycle-bp](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps
 
 * [edge/cyc](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds.
 
