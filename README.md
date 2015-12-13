@@ -72,6 +72,7 @@ http://oleg.fi/graafi
 
 * [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher).
 
+* [cyclejs/cycle-history](https://github.com/cyclejs/cycle-history) - The standard Cycle driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 
 ### Utilities
 
