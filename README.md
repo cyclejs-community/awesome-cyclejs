@@ -52,6 +52,8 @@ http://oleg.fi/graafi
 
 * [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron.
 
+* [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api.
+
 ## Libraries
 
 ### Drivers
