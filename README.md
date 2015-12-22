@@ -76,6 +76,8 @@ http://oleg.fi/graafi
 
 * [cyclejs/cycle-history](https://github.com/cyclejs/cycle-history) - The standard Cycle driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 
+* [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph)
+
 ### Utilities
 
 * [staltz/chai-virtual-dom](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
