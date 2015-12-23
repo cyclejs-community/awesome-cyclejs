@@ -78,6 +78,8 @@ http://oleg.fi/graafi
 
 * [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph)
 
+* [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
+
 ### Utilities
 
 * [staltz/chai-virtual-dom](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
