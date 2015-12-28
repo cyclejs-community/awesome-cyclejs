@@ -80,6 +80,8 @@ http://oleg.fi/graafi
 
 * [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
 
+* [jessaustin/cycle-sse-driver](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource.
+
 ### Utilities
 
 * [staltz/chai-virtual-dom](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
