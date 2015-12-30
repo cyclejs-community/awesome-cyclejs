@@ -53,6 +53,9 @@ http://oleg.fi/graafi
 * [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron.
 
 * [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api.
+ 
+* [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations.
+
 
 ## Libraries
 
@@ -81,6 +84,8 @@ http://oleg.fi/graafi
 * [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
 
 * [jessaustin/cycle-sse-driver](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource.
+
+* [tylors/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom
 
 ### Utilities
 
