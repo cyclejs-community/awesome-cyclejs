@@ -115,6 +115,8 @@ http://oleg.fi/graafi
 
 * [edge/cyc](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds.
 
+* [cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) - Cycle app with routing, state handling and tests.
+
 ### Testing
 
 * [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
