@@ -25,7 +25,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Example Applications
 
-* [cyclejs/cycle-examples](https://github.com/cyclejs/cycle-examples) - Official collection of small Cycle.js examples 
+* [cyclejs/cycle-examples](https://github.com/cyclejs/cycle-examples) - Official collection of small Cycle.js examples
 
 * [cgeorg/todomvp](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js
 
@@ -53,7 +53,7 @@ http://oleg.fi/graafi
 * [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron.
 
 * [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api.
- 
+
 * [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations.
 
 
@@ -98,7 +98,7 @@ http://oleg.fi/graafi
 * [erykpiast/cyclejs-stream](https://github.com/erykpiast/cyclejs-stream) - Observable (events stream) to which you can inject another streams.
 
 * [erykpiast/cyclejs-wc](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js
- 
+
 * [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 
 * [pH200/cycle-react](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API
@@ -116,6 +116,8 @@ http://oleg.fi/graafi
 * [edge/cyc](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds.
 
 * [cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) - Cycle app with routing, state handling and tests.
+
+* [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr
 
 ### Testing
 
