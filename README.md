@@ -89,6 +89,8 @@ http://oleg.fi/graafi
 
 * [tylors/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom
 
+* [TylorS/cycle-router](https://github.com/TylorS/cycle-router) - Router driver designed for Cycle.js
+
 ### Utilities
 
 * [staltz/chai-virtual-dom](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
