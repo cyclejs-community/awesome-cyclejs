@@ -27,6 +27,8 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [cyclejs/cycle-examples](https://github.com/cyclejs/cycle-examples) - Official collection of small Cycle.js examples
 
+* [Widdershin/tricycle](https://github.com/Widdershin/tricycle) - Scratchpad for trying out Cycle.js, relies on Ace Editor with Cycle
+
 * [cgeorg/todomvp](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js
 
 * [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js.
