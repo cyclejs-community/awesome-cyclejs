@@ -134,6 +134,7 @@ http://oleg.fi/graafi
 ### Components
 
 * [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
+* [enten/cyclejs-calendar](https://github.com/enten/cyclejs-calendar) - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
 
 ## Community
 
