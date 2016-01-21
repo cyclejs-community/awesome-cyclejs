@@ -27,7 +27,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Videos
 
-* [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) - Presentation at JSConf BP2015 by [Andre Staltz](http://twitter.com/andrestaltz)
+* [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) - Presentation at JSConf BP2015 by [Andre Staltz](https://twitter.com/andrestaltz)
 * [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - Presentation at ReactiveConf 2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 * [Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns) - Presentation by [Nick Johnstone](https://twitter.com/widdnz)
 
@@ -45,8 +45,8 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6.
 * [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) - Tetris game implemented in CycleJS, ES6
 * [phadej/graafi](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo
-http://oleg.fi/graafi
-* [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://www.rxmarbles.com
+http://oleg.fi/graafi/
+* [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/
 * [MarcCloud/magic-cart](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store.
 * [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD.
 * [collardeau/kairos](https://github.com/collardeau/kairos) - Source code for [Kairos](http://my-kairos.herokuapp.com/), a weather app built in Cycle.js.
@@ -81,7 +81,7 @@ http://oleg.fi/graafi
 * [staltz/chai-virtual-dom](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
 * [cgeorg/sinject](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies
 * [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
-* [erykpiast/cyclejs-stream](https://github.com/erykpiast/cyclejs-stream) - Observable (events stream) to which you can inject another streams.
+* [erykpiast/cyclejs-stream](https://github.com/cyclejs/rx-injectable-observable) - Observable (events stream) to which you can inject another streams.
 * [erykpiast/cyclejs-wc](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js
 * [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 * [pH200/cycle-react](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API
@@ -102,7 +102,7 @@ http://oleg.fi/graafi
 
 ### Debugging
 
-* [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time. Try it online [here](http://cycle.js.org/cycle-time-travel).
+* [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time. Try it online [here](http://cycle.js.org/cycle-time-travel/).
 
 ### Components
 
@@ -111,7 +111,7 @@ http://oleg.fi/graafi
 
 ## Community
 
-* [Gitter chat](https://gitter.im/staltz/cycle) - Ask 'how do I ...?'
+* [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
 
 
 ## License
