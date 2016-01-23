@@ -62,7 +62,7 @@ http://oleg.fi/graafi/
 
 * [tylors/cycle-director](https://github.com/tylors/cycle-director) - Router driver using Director.
 * [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) - A Cycle.js Driver for making HTTP requests, based on superagent.
-* [cyclejs/cycle-storage-driver](https://github.com/cyclejs/cycle-storage-driver) - A Cycle.js Driver for using localStorage and sessionStorage. 
+* [cyclejs/cycle-storage-driver](https://github.com/cyclejs/cycle-storage-driver) - A Cycle.js Driver for using localStorage and sessionStorage.
 * [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) - A Cycle.js Driver for showing and responding to HTML5 Notifications.
 * [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) - A router driver using Router5
 * [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
@@ -108,6 +108,7 @@ http://oleg.fi/graafi/
 
 * [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
 * [enten/cyclejs-calendar](https://github.com/enten/cyclejs-calendar) - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
+* [mciparelli/cyclejs-gravatar](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
 
 ## Community
 
