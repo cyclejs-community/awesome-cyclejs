@@ -110,6 +110,7 @@ http://oleg.fi/graafi/
 * [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
 * [enten/cyclejs-calendar](https://github.com/enten/cyclejs-calendar) - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
 * [mciparelli/cyclejs-gravatar](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
+* [mmai/cyclejs-sparklines](https://github.com/mmai/cyclejs-sparklines) - Sparklines component. A Cycle.js port of the React sparklines component.
 
 ## Community
 
