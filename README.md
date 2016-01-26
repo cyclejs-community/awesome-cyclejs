@@ -55,7 +55,7 @@ http://oleg.fi/graafi/
 * [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron.
 * [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api.
 * [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations.
-
+* [bahmutov/draw-cycle](https://github.com/bahmutov/draw-cycle) - Interactive visualization of counter application showing the data flow inside a MVI component [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
 
 ## Libraries
 
