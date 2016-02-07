@@ -76,6 +76,7 @@ http://oleg.fi/graafi/
 * [jessaustin/cycle-sse-driver](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource.
 * [tylors/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom
 * [TylorS/cycle-router](https://github.com/TylorS/cycle-router) - Router driver designed for Cycle.js
+* [TylorS/cyclic-router](https://github.com/TylorS/cyclic-router) - Router Driver built for Cycle.js
 
 ### Utilities
 
