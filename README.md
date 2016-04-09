@@ -79,6 +79,7 @@ http://oleg.fi/graafi/
 * [TylorS/cyclic-router](https://github.com/TylorS/cyclic-router) - Router Driver built for Cycle.js
 * [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) - Cycle driver for requestAnimationFrame
 * [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) - A Cycle.js Driver for Firebase
+* [edge/cycle-blessed](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications
 
 ### Utilities
 
