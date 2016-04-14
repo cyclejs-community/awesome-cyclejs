@@ -80,6 +80,7 @@ http://oleg.fi/graafi/
 * [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) - Cycle driver for requestAnimationFrame
 * [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) - A Cycle.js Driver for Firebase
 * [edge/cycle-blessed](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications
+* [10clouds/cyclejs-cookie](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js 
 
 ### Utilities
 
