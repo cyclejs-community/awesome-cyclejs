@@ -82,6 +82,8 @@ http://oleg.fi/graafi/
 * [dralletje/cycle-firebase ★15](https://github.com/dralletje/cycle-firebase) - A Cycle.js Driver for Firebase
 * [edge/cycle-blessed ★26](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications
 * [10clouds/cyclejs-cookie ★0](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js 
+* [whitecolor/cycle-async-driver ★7](https://github.com/whitecolor/cycle-async-driver) - Factory for creating async request/response cycle.js drivers
+
 
 ### Utilities
 
