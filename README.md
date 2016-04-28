@@ -83,6 +83,7 @@ http://oleg.fi/graafi/
 * [edge/cycle-blessed ★26](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications
 * [10clouds/cyclejs-cookie ★0](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js 
 * [whitecolor/cycle-async-driver ★7](https://github.com/whitecolor/cycle-async-driver) - Factory for creating async request/response cycle.js drivers
+* [raquelxmoss/cycle-keys ★9](https://github.com/raquelxmoss/cycle-keys) - Driver for keyboard events
 * [rektide/recyclec ★0](https://github.com/rektide/recyclec) - Readline driver
 
 
