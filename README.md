@@ -86,10 +86,11 @@ http://oleg.fi/graafi/
 * [Widdershin/cycle-animation-driver ★22](https://github.com/Widdershin/cycle-animation-driver) - Cycle driver for requestAnimationFrame
 * [dralletje/cycle-firebase ★15](https://github.com/dralletje/cycle-firebase) - A Cycle.js Driver for Firebase
 * [edge/cycle-blessed ★26](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications
-* [10clouds/cyclejs-cookie ★0](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js 
+* [10clouds/cyclejs-cookie ★0](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js
 * [whitecolor/cycle-async-driver ★7](https://github.com/whitecolor/cycle-async-driver) - Factory for creating async request/response cycle.js drivers
 * [raquelxmoss/cycle-keys ★9](https://github.com/raquelxmoss/cycle-keys) - Driver for keyboard events
 * [rektide/recyclec ★0](https://github.com/rektide/recyclec) - Readline driver
+* [goodmind/cycle-telegram ★2](https://github.com/goodmind/cycle-telegram) - A Cycle.js Driver for Telegram Bot API
 
 
 ### Utilities
