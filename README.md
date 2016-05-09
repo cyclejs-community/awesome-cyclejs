@@ -62,6 +62,7 @@ http://oleg.fi/graafi/
 * [kibin/cycle-example-who-to-follow ★16](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api.
 * [SkaterDad/cycle-snabbdom-examples ★4](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations.
 * [bahmutov/draw-cycle ★81](https://github.com/bahmutov/draw-cycle) - Interactive visualization of counter application showing the data flow inside a MVI component [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
+* [andreloureiro/pomocycle ★3](https://github.com/andreloureiro/pomocycle) - A simple Pomodoro timer.
 
 ## Libraries
 
