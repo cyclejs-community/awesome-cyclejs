@@ -63,6 +63,8 @@ http://oleg.fi/graafi/
 * [SkaterDad/cycle-snabbdom-examples ★4](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations.
 * [bahmutov/draw-cycle ★81](https://github.com/bahmutov/draw-cycle) - Interactive visualization of counter application showing the data flow inside a MVI component [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
 * [andreloureiro/pomocycle ★3](https://github.com/andreloureiro/pomocycle) - A simple Pomodoro timer.
+* [laszlokorte/tams-tools ★6](https://github.com/laszlokorte/tams-tools) - A set of tools for teaching and learning computer science built with cycle.js.
+
 
 ## Libraries
 
