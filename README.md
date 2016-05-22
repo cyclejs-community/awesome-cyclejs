@@ -25,6 +25,8 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Tutorials
 
+* [What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) - Post on MVI architecture.
+
 ### Videos
 
 * [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) - Presentation at JSConf BP2015 by [Andre Staltz](https://twitter.com/andrestaltz)
@@ -41,6 +43,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/erykpiast/cycle) - by Eryk Napierała
 * [Intro to Cycle.js](http://www.slideshare.net/aryelukashevski/cyclejs-introduction) - by Arye Lukashevki
+* [Reactive Programming with Cycle.js](http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs) - by Luca Mezzalira
 
 ### Example Applications
 
@@ -64,6 +67,7 @@ http://oleg.fi/graafi/
 * [bahmutov/draw-cycle ★81](https://github.com/bahmutov/draw-cycle) - Interactive visualization of counter application showing the data flow inside a MVI component [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
 * [andreloureiro/pomocycle ★3](https://github.com/andreloureiro/pomocycle) - A simple Pomodoro timer.
 * [laszlokorte/tams-tools ★6](https://github.com/laszlokorte/tams-tools) - A set of tools for teaching and learning computer science built with cycle.js.
+* [lucamezzalira/jsday-cycle-js ★6](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js.
 
 
 ## Libraries
