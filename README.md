@@ -119,6 +119,7 @@ http://oleg.fi/graafi/
 * [edge/cyc ★82](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds.
 * [cmdv/cycle-webpack-boilerplate ★63](https://github.com/Cmdv/cycle-webpack-boilerplate) - Cycle app with routing, state handling and tests.
 * [Widdershin/cycle-hot-reloading-example ★25](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr
+* [mciparelli/cycle-hmr-example ★0](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
 
 ### Testing
 
