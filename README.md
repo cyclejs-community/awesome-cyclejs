@@ -26,6 +26,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Tutorials
 
 * [What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) - Post on MVI architecture.
+* [Cycle.js: a reactive framework](https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/) - Introduction to Cycle.js with real time data example.
 
 ### Videos
 
