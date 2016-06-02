@@ -78,6 +78,7 @@ http://oleg.fi/graafi/
 * [TylorS/cycle-router](https://github.com/TylorS/cycle-router) - Router driver designed for Cycle.js
 * [TylorS/cyclic-router](https://github.com/TylorS/cyclic-router) - Router Driver built for Cycle.js
 * [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) - Cycle driver for requestAnimationFrame
+* [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) - Driver to interact with Electron interface from Cycle.js application
 
 ### Utilities
 
