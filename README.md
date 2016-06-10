@@ -111,6 +111,7 @@ http://oleg.fi/graafi/
 * [**ohanhi/hyperscript-helpers ★237**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript.
 * [**pH200/cycle-react ★234**](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js.
+* [WorldMaker/cycle-gear](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern
 
 ### Boilerplates
 
