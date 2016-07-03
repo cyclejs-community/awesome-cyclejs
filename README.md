@@ -138,6 +138,7 @@ http://oleg.fi/graafi/
 * [erykpiast/autocompleted-select ★9](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
 * [enten/cyclejs-calendar ★6](https://github.com/enten/cyclejs-calendar) - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
 * [mciparelli/cyclejs-gravatar ★0](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
+* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 
 ## Community
 
