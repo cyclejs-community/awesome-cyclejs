@@ -46,6 +46,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/erykpiast/cycle) - by Eryk Napierała
 * [Intro to Cycle.js](http://www.slideshare.net/aryelukashevski/cyclejs-introduction) - by Arye Lukashevki
 * [Reactive Programming with Cycle.js](http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs) - by Luca Mezzalira
+* [Cycle.js - building apps with streams only] (http://lmatteis.github.io/cyclejs-slides/keynote/index.html) - by Luca Matteis
 
 ### Example Applications
 
