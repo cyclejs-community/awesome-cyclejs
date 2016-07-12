@@ -71,6 +71,7 @@ http://oleg.fi/graafi/
 * [andreloureiro/pomocycle ★3](https://github.com/andreloureiro/pomocycle) - A simple Pomodoro timer.
 * [laszlokorte/tams-tools ★6](https://github.com/laszlokorte/tams-tools) - A set of tools for teaching and learning computer science built with cycle.js.
 * [lucamezzalira/jsday-cycle-js ★6](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js.
+* [cyclejs-community/built-with-cycle](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js
 
 
 ## Libraries
