@@ -124,6 +124,7 @@ http://oleg.fi/graafi/
 * [cmdv/cycle-webpack-boilerplate ★63](https://github.com/Cmdv/cycle-webpack-boilerplate) - Cycle app with routing, state handling and tests.
 * [Widdershin/cycle-hot-reloading-example ★25](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr
 * [mciparelli/cycle-hmr-example ★0](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
+* [cycle-community/typescript-starter-cycle ★2](https://github.com/cyclejs-community/typescript-starter-cycle) - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
 
 ### Testing
 
