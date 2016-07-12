@@ -76,7 +76,6 @@ http://oleg.fi/graafi/
 
 ### Drivers
 
-* [tylors/cycle-director ★15](https://github.com/TylorS/cycle-director) - Router driver using Director.
 * [cyclejs/cycle-http-driver ★51](https://github.com/cyclejs/http) - A Cycle.js Driver for making HTTP requests, based on superagent.
 * [cyclejs/cycle-storage-driver ★20](https://github.com/cyclejs/cycle-storage-driver) - A Cycle.js Driver for using localStorage and sessionStorage.
 * [cyclejs/cycle-notification-driver ★15](https://github.com/cyclejs/cycle-notification-driver) - A Cycle.js Driver for showing and responding to HTML5 Notifications.
@@ -90,7 +89,6 @@ http://oleg.fi/graafi/
 * [CyclicMaterials/cycle-hammer-driver ★10](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
 * [jessaustin/cycle-sse-driver ★4](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource.
 * [tylors/cycle-snabbdom ★41](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom
-* [TylorS/cycle-router ★31](https://github.com/TylorS/cycle-router) - Router driver designed for Cycle.js
 * [TylorS/cyclic-router ★34](https://github.com/TylorS/cyclic-router) - Router Driver built for Cycle.js
 * [Widdershin/cycle-animation-driver ★22](https://github.com/Widdershin/cycle-animation-driver) - Cycle driver for requestAnimationFrame
 * [dralletje/cycle-firebase ★15](https://github.com/dralletje/cycle-firebase) - A Cycle.js Driver for Firebase
