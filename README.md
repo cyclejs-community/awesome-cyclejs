@@ -102,6 +102,7 @@ http://oleg.fi/graafi/
 * [goodmind/cycle-telegram ★2](https://github.com/goodmind/cycle-telegram) - A Cycle.js Driver for Telegram Bot API
 * [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) - Driver to interact with Electron interface from Cycle.js application
 * [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) - A Cycle.js driver for animating (srsly) localStorage.
+* [cyclejs-community/cycle-keyboard ★1](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js
 
 ### Utilities
 
