@@ -41,6 +41,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Back to the Future, Hot reloading with Cycle.js](https://www.youtube.com/watch?v=rbrnyC5fXMM) - by Nick Johnstone at [CycleConf 2016](http://cycleconf.com/)
 * [From MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw) - by Gleb Bahmutov at [CycleConf 2016](http://cycleconf.com/)
 * [Cycle.js on the bash side](https://www.youtube.com/watch?v=Rx5N99TQ52g) - by Hadrien de Cuzey at [CycleConf 2016](http://cycleconf.com/)
+* [Reactive Programming with Cycle.js](https://vimeo.com/175121069) - by Luca Mezzalira at [JSDay 2016](http://2016.jsday.it/)
 
 ### Slides
 
