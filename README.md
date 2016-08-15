@@ -106,6 +106,7 @@ http://oleg.fi/graafi/
 * [apoco/cycle-electron-driver ★14](https://github.com/apoco/cycle-electron-driver) - Driver to interact with Electron interface from Cycle.js application
 * [rkrupinski/cyclejs-animated-localstorage ★4](https://github.com/rkrupinski/cyclejs-animated-localstorage) - A Cycle.js driver for animating (srsly) localStorage.
 * [cyclejs-community/cycle-keyboard ★1](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js
+* [garrydzeng/cycle-page ★1](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js
 
 ### Utilities
 
