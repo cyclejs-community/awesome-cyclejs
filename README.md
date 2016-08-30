@@ -50,6 +50,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Intro to Cycle.js](http://www.slideshare.net/aryelukashevski/cyclejs-introduction) - by Arye Lukashevki
 * [Reactive Programming with Cycle.js](http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs) - by Luca Mezzalira
 * [Cycle.js - building apps with streams only] (http://lmatteis.github.io/cyclejs-slides/keynote/index.html) - by Luca Matteis
+* [Functional Reactive Programming with Cycle.js](https://slides.com/artfuldev/frp-with-cycle-js) - by Sudarsan Balaji
 
 ### Example Applications
 
