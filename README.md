@@ -109,6 +109,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★1](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js
 * [garrydzeng/cycle-page ★1](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js
 * [jbowden1982/cycle-socketcluster ★3](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js
+* [domagojk/cycle-grid-driver ★3](https://github.com/domagojk/cycle-grid-driver) - A driver for communcation between multiple "main cycle" components
 
 ### Utilities
 
