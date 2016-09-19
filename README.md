@@ -82,7 +82,7 @@ http://oleg.fi/graafi/
 
 ### Drivers
 
-* [cyclejs/cycle-http-driver ★58](https://github.com/cyclejs/http) - A Cycle.js Driver for making HTTP requests, based on superagent.
+* [cyclejs/cycle-http-driver ★58](https://github.com/cyclejs/cyclejs/tree/master/http) - A Cycle.js Driver for making HTTP requests, based on superagent.
 * [cyclejs/cycle-storage-driver ★21](https://github.com/cyclejs/storage) - A Cycle.js Driver for using localStorage and sessionStorage.
 * [cyclejs/cycle-notification-driver ★18](https://github.com/cyclejs/cycle-notification-driver) - A Cycle.js Driver for showing and responding to HTML5 Notifications.
 * [axefrog/cycle-router5 ★28](https://github.com/axefrog/cycle-router5) - A router driver using Router5
