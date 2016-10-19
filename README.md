@@ -8,6 +8,8 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
   - [Videos](#videos)
   - [Slides](#slides)
   - [Example Applications](#example-applications)
+- [Tools](#tools)
+  - [CLI](#cli)
 - [Libraries](#libraries)
   - [Drivers](#drivers)
   - [Boilerplates](#boilerplates)
@@ -77,6 +79,11 @@ http://oleg.fi/graafi/
 * [cyclejs-community/built-with-cycle ★4](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js
 * [class-ideas/cyclejs-hangman ★7](https://github.com/class-ideas/cyclejs-hangman) A hangman game built with Cycle.js
 
+## Tools
+
+### CLI
+
+* [cyclejs-community/create-cycle-app ★19](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration.
 
 ## Libraries
 
