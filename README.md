@@ -155,6 +155,7 @@ http://oleg.fi/graafi/
 * [mciparelli/cyclejs-gravatar ★0](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
 * [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 * [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
+* [cyclejs-community/cycle-svg-pan-and-zoom](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
 
 ## Community
 
