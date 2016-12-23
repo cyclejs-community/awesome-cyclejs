@@ -129,6 +129,7 @@ http://oleg.fi/graafi/
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js.
 * [WorldMaker/cycle-gear ★1](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern
 * [SuperManitu/cyclejs-sortable ★5](https://github.com/cyclejs-community/cyclejs-sortable) - Make everything sortable via drag and drop in only one line of code!
+* [atomrc/cyclejs-auth0 ★13](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (Driver + component)
 
 ### Boilerplates
 
