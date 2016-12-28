@@ -78,6 +78,7 @@ http://oleg.fi/graafi/
 * [lucamezzalira/jsday-cycle-js ★8](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js.
 * [cyclejs-community/built-with-cycle ★4](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js
 * [class-ideas/cyclejs-hangman ★7](https://github.com/class-ideas/cyclejs-hangman) A hangman game built with Cycle.js
+* [wmaurer/cyclejs-fractals](https://github.com/wmaurer/cyclejs-fractals) Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
 
 ## Tools
 
