@@ -45,6 +45,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Cycle.js on the bash side](https://www.youtube.com/watch?v=Rx5N99TQ52g) - by Hadrien de Cuzey at [CycleConf 2016](http://cycleconf.com/)
 * [Reactive Programming with Cycle.js](https://vimeo.com/175121069) - by Luca Mezzalira at [JSDay 2016](http://2016.jsday.it/)
 * [Learning how to ride: an introduction to Cycle.js](https://youtu.be/31URmaeNHSs) - by Fernando Macias Pereznieto at [JS Monthly London](http://www.meetup.com/js-monthly-london/)
+* [User Interfaces as Pure Functions of Time](https://www.youtube.com/watch?v=9BG0Y3C6WqM) - Lightning talk by [Thomas Belin](http://twitter.com/atomrc) at [dotjs 2016](http://dotjs.io/)
 
 ### Slides
 
