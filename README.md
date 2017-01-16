@@ -118,7 +118,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★1](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js
 * [garrydzeng/cycle-page ★1](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js
 * [jbowden1982/cycle-socketcluster ★3](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js
-* [lmatteis/redux-cycle-middleware ★14](https://github.com/lmatteis/redux-cycle-middleware) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
+* [cyclejs-community/redux-cycle-middleware ★30](https://github.com/cyclejs-community/redux-cycle-middleware) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
 
 ### Utilities
 
