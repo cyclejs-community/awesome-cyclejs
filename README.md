@@ -120,6 +120,7 @@ http://oleg.fi/graafi/
 * [jbowden1982/cycle-socketcluster ★3](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js
 * [cyclejs-community/redux-cycles ★30](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
 * [JuniperChicago/cycle-gun](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync.
+* [EnigmaCurry/cycle-deepstream](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 
 ### Utilities
 
