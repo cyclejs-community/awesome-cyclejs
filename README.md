@@ -149,7 +149,7 @@ http://oleg.fi/graafi/
 * [Widdershin/cycle-hot-reloading-example ★25](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr
 * [mciparelli/cycle-hmr-example ★0](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
 * [cycle-community/typescript-starter-cycle ★12](https://github.com/cyclejs-community/typescript-starter-cycle) - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
-* [wyqydsyq/hapi-cycle ★0](https://github.com/wyqydsyq/hapi-cycle) - A boilerplate isomorphic Cycle app running on a Hapi server with a simple CRUD skeleton to get you started
+* [wyqydsyq/unicycle ★0](https://github.com/wyqydsyq/unicycle) - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack
 
 ### Testing
 
