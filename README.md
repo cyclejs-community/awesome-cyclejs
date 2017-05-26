@@ -150,6 +150,7 @@ http://oleg.fi/graafi/
 * [mciparelli/cycle-hmr-example ★0](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
 * [cycle-community/typescript-starter-cycle ★12](https://github.com/cyclejs-community/typescript-starter-cycle) - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
 * [wyqydsyq/unicycle ★0](https://github.com/wyqydsyq/unicycle) - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack
+* [syarul/cycle-iso ★2](https://github.com/syarul/cycle-iso) - A barebone boilerplate Cycle app with data stream base on promises and  fetched with Falcor.js
 
 ### Testing
 
