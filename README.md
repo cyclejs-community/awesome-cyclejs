@@ -125,6 +125,7 @@ http://oleg.fi/graafi/
 * [JuniperChicago/cycle-gun](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync.
 * [EnigmaCurry/cycle-deepstream](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★0](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server
+* [mrpierrot/cycle-node-http-server ★1](https://github.com/mrpierrot/cycle-node-http-server) - A Cycle.js driver for Node.js HTTP(S) server 
 
 ### Utilities
 
