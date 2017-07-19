@@ -126,6 +126,7 @@ http://oleg.fi/graafi/
 * [EnigmaCurry/cycle-deepstream](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★0](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server
 * [mrpierrot/cycle-node-http-server ★1](https://github.com/mrpierrot/cycle-node-http-server) - A Cycle.js driver for Node.js HTTP(S) server 
+* [Avalander/cycle-idb ★1](https://github.com/Avalander/cycle-idb) - A Cycle.js driver wrapping IndexedDB.
 
 ### Utilities
 
