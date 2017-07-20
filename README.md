@@ -68,6 +68,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [ivan-kleshnin/tetris-cyclejs ★10](https://github.com/ivan-kleshnin/tetris-game) - Tetris game implemented in CycleJS, ES6
 * [phadej/graafi ★17](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo
 http://oleg.fi/graafi/
+* [**staltz/matrixmultiplication.xyz ★529**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication webapp
 * [**staltz/rxmarbles ★1,323**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store.
 * [foxdonut/cycle-todolist ★10](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD.
@@ -83,6 +84,7 @@ http://oleg.fi/graafi/
 * [class-ideas/cyclejs-hangman ★7](https://github.com/class-ideas/cyclejs-hangman) A hangman game built with Cycle.js
 * [wmaurer/cyclejs-fractals](https://github.com/wmaurer/cyclejs-fractals) Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
 * [fabiothiroki/cyclejs-starwars ★1](https://github.com/fabiothiroki/cyclejs-starwars) A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
+* [staltz/mmmmm-mobile](https://github.com/staltz/mmmmm-mobile/) A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 
 ## Tools
 
