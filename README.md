@@ -81,10 +81,10 @@ http://oleg.fi/graafi/
 * [laszlokorte/tams-tools ★24](https://github.com/laszlokorte/tams-tools) - A set of tools for teaching and learning computer science built with cycle.js.
 * [lucamezzalira/jsday-cycle-js ★16](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js.
 * [cyclejs-community/built-with-cycle ★9](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js
-* [class-ideas/cyclejs-hangman ★10](https://github.com/class-ideas/cyclejs-hangman) A hangman game built with Cycle.js
-* [wmaurer/cyclejs-fractals ★15](https://github.com/wmaurer/cyclejs-fractals) Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
-* [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
-* [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
+* [class-ideas/cyclejs-hangman ★10](https://github.com/class-ideas/cyclejs-hangman) - A hangman game built with Cycle.js
+* [wmaurer/cyclejs-fractals ★15](https://github.com/wmaurer/cyclejs-fractals) - Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
+* [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) - A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
+* [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
 
 ## Tools
@@ -127,11 +127,11 @@ http://oleg.fi/graafi/
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js
 * [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
-* [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync.
+* [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server
 * [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) - A Cycle.js driver for Node.js HTTP(S) server
-* [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) - A Cycle.js driver wrapping IndexedDB.
+* [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) - A Cycle.js driver wrapping IndexedDB
 
 ### Utilities
 
