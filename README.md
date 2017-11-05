@@ -133,6 +133,7 @@ http://oleg.fi/graafi/
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server
 * [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) - A Cycle.js driver for Node.js HTTP(S) server
 * [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) - A Cycle.js driver wrapping IndexedDB
+* [unhappychoice/cycle-pusher★1](https://github.com/unhappychoice/cycle-pusher) - A Cycle.js driver for [Pusher](https://pusher.com/)
 
 ### Utilities
 
