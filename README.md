@@ -137,6 +137,7 @@ http://oleg.fi/graafi/
 * [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) - A Cycle.js driver for Node.js HTTP(S) server
 * [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) - A Cycle.js driver wrapping IndexedDB
 * [unhappychoice/cycle-pusher ★1](https://github.com/unhappychoice/cycle-pusher) - A Cycle.js driver for [Pusher](https://pusher.com/)
+* [helmoski/cycle-selection-driver](https://github.com/helmoski/cycle-selection-driver) - A Cycle.js driver for interacting with the [Selection API](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
 
 ### Utilities
 
