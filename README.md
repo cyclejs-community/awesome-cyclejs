@@ -153,6 +153,7 @@ http://oleg.fi/graafi/
 * [atomrc/cyclejs-auth0 ★22](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (Driver + component)
 * [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps
 * [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage
+* [shfrmn/cycle-lot](https://github.com/shfrmn/cycle-lot) - Handle dynamic lists of Cycle.js components with ease (full typesript support)
 
 ### Boilerplates
 
