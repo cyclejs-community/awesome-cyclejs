@@ -175,7 +175,7 @@ http://oleg.fi/graafi/
 
 ### Debugging
 
-* [**cyclejs/cycle-time-travel ★205**](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time. Try it online [here](http://cycle.js.org/cycle-time-travel/).
+* [**cyclejs/cycle-time-travel ★205**](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time.
 
 ### Components
 
