@@ -139,6 +139,7 @@ http://oleg.fi/graafi/
 * [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) - A Cycle.js driver wrapping IndexedDB
 * [unhappychoice/cycle-pusher ★1](https://github.com/unhappychoice/cycle-pusher) - A Cycle.js driver for [Pusher](https://pusher.com/)
 * [helmoski/cycle-selection-driver](https://github.com/helmoski/cycle-selection-driver) - A Cycle.js driver for interacting with the [Selection API](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 
 ### Utilities
 
