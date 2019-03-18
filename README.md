@@ -159,6 +159,7 @@ http://oleg.fi/graafi/
 * [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps
 * [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage
 * [shfrmn/cycle-lot](https://github.com/shfrmn/cycle-lot) - Handle dynamic lists of Cycle.js components with ease (full typesript support)
+* [sarimarton/powercycle](https://powercycle.js.org) - Static VDOM composition and React-like development on top of Cycle.js
 
 ### Boilerplates
 
