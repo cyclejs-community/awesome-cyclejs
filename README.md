@@ -165,7 +165,6 @@ http://oleg.fi/graafi/
 
 * [andreloureiro/cyclejs-starter ★50](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload.
 * [Frikki/generator-cyclejs ★2](https://github.com/Frikki/generator-cyclejs) - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
-* [adicirstei/cycle-bp ★5](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps
 * [**edge/cyc ★194**](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds.
 * [cmdv/cycle-webpack-boilerplate ★101](https://github.com/Cmdv/cycle-webpack-boilerplate) - Cycle app with routing, state handling and tests.
 * [Widdershin/cycle-hot-reloading-example ★27](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr
