@@ -172,6 +172,7 @@ http://oleg.fi/graafi/
 * [cycle-community/typescript-starter-cycle ★22](https://github.com/cyclejs-community/typescript-starter-cycle) - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
 * [wyqydsyq/unicycle ★6](https://github.com/wyqydsyq/unicycle) - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack
 * [syarul/cycle-iso ★4](https://github.com/syarul/cycle-iso) - A barebone boilerplate Cycle app with data stream base on promises and  fetched with Falcor.js
+* [snowpack-cycle](https://github.com/rajasegar/snowpack-cycle) - Snowpack app template to create Cycle.js projects with create-snowpack-app
 
 ### Testing
 
