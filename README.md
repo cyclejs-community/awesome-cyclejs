@@ -38,7 +38,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Unidirectional data flow architectures](https://vimeo.com/168652278) - Presentation AtTheFrontend Conference by [Andre Staltz](https://twitter.com/andrestaltz)
 * [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - Presentation at ReactiveConf 2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 * [Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns) - Presentation by [Nick Johnstone](https://twitter.com/widdnz)
-* [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) - Playlist at [egghead.io](https://egghead.io)
+* [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - Playlist at [egghead.io](https://egghead.io)
 * [Cycle.js was built to solve problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E) - by Andre Staltz at [Frontend.fi](http://frontend.fi/)
 * [Brains as Building Blocks](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - by Andre Staltz at [CycleConf 2016](http://cycleconf.com/)
 * [Back to the Future, Hot reloading with Cycle.js](https://www.youtube.com/watch?v=rbrnyC5fXMM) - by Nick Johnstone at [CycleConf 2016](http://cycleconf.com/)
@@ -177,7 +177,7 @@ http://oleg.fi/graafi/
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://jestjs.io/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
